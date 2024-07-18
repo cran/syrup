@@ -1,7 +1,7 @@
-7dd0cc9b62ff174a0e028541e2b7480a *DESCRIPTION
+1b3857fdf14ce5d9415367e45f9d26a9 *DESCRIPTION
 c5fa171ab25021dc922e3537a07732a9 *LICENSE
 187a57d59fa64fcf62a0835797afc69a *NAMESPACE
-3d690275aa7f3da7e4064a7f9926c566 *NEWS.md
+9f8faafea79305ad94293fd9bcdab08a *NEWS.md
 c316ee3e444651d3cbfb818c1dc35bc4 *R/imports.R
 a5b9156c9d5d2d956fa4abe2350a1de9 *R/syrup-package.R
 9c306120b5aa46391147ae34e9370117 *R/syrup.R
@@ -14,4 +14,4 @@ ff729b316fb6c80c4a991b936cc17b3c *man/syrup-package.Rd
 e2b9e95cf4974f97c74da6269ecaff99 *man/syrup.Rd
 7cc3f2ca0693075ae01046f59355e510 *tests/testthat.R
 ee1838f924032d3fc1b260eb4683dc8c *tests/testthat/_snaps/syrup.md
-efe201c297e04e1ab4bbfe462feb216d *tests/testthat/test-syrup.R
+eff6c3122371412159fa9193d70ca4c4 *tests/testthat/test-syrup.R

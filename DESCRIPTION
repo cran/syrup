@@ -1,6 +1,6 @@
 Package: syrup
 Title: Measure Memory and CPU Usage for Parallel R Code
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
       person("Simon", "Couch", , "simon.couch@posit.co", role = c("aut", "cre"),
              comment = c(ORCID = "0000-0001-5676-5107")),
@@ -22,9 +22,9 @@ URL: https://github.com/simonpcouch/syrup,
         https://simonpcouch.github.io/syrup/
 BugReports: https://github.com/simonpcouch/syrup/issues
 NeedsCompilation: no
-Packaged: 2024-07-08 17:11:18 UTC; simoncouch
+Packaged: 2024-07-18 13:55:11 UTC; simoncouch
 Author: Simon Couch [aut, cre] (<https://orcid.org/0000-0001-5676-5107>),
   Posit Software, PBC [cph, fnd]
 Maintainer: Simon Couch <simon.couch@posit.co>
 Repository: CRAN
-Date/Publication: 2024-07-09 15:50:02 UTC
+Date/Publication: 2024-07-18 14:10:02 UTC
