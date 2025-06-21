@@ -1,3 +1,7 @@
+# syrup 0.1.4
+
+* Resolves issue with Additional Issues checks MKL and noLD.
+
 # syrup 0.1.3
 
 * Resolves another issue with Fedora in R-devel.

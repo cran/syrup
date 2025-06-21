@@ -1,11 +1,11 @@
-3cb2bb78291458da3942d2d9ee4d3b7d *DESCRIPTION
+65cbccf8e16809b19b55a0f9cb91b02c *DESCRIPTION
 c5fa171ab25021dc922e3537a07732a9 *LICENSE
 187a57d59fa64fcf62a0835797afc69a *NAMESPACE
-98d382a8f2edca167e068c7634f59e03 *NEWS.md
+9e631adbb82461081029cdd8002d5926 *NEWS.md
 c316ee3e444651d3cbfb818c1dc35bc4 *R/imports.R
 a5b9156c9d5d2d956fa4abe2350a1de9 *R/syrup-package.R
 cd2adecf36acfee9549289de5abbb56f *R/syrup.R
-583b1af2db6b7f34ab4fd038f1b0d151 *R/utils.R
+505c9d7d7f96fca51a9e1922e9951858 *R/utils.R
 e2198b4731f53a7e9e3597e3fb9f09bc *README.md
 799e3d9e76ef45a7e77850f6196f3b7b *man/figures/README-plot-cpu-1.png
 b6e3156e32a761c5c54f9efc7ea51161 *man/figures/README-plot-mem-1.png
@@ -14,4 +14,4 @@ ff729b316fb6c80c4a991b936cc17b3c *man/syrup-package.Rd
 e147c3477aaf27119e2747cc0593395a *man/syrup.Rd
 7cc3f2ca0693075ae01046f59355e510 *tests/testthat.R
 ee1838f924032d3fc1b260eb4683dc8c *tests/testthat/_snaps/syrup.md
-eff6c3122371412159fa9193d70ca4c4 *tests/testthat/test-syrup.R
+081eccfb035804b76c0d55ae68273ace *tests/testthat/test-syrup.R
